@@ -1,0 +1,8 @@
+1) Команда — (uname -o; uname -n; uname -p; uname -r) > sys.info
+GNU/Linux
+kappa
+x86_64
+5.3.18-lp152.92-default
+
+2) Команда — (mesg > /dev/null && echo "Сообщения разрешены") || echo "Сообщения запрещены"
+Сообщения запрещены
